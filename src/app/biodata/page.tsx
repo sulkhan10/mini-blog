@@ -82,7 +82,7 @@ export default function Home() {
         </div>
       </div>
         <div >
-          ABOUT PAGE
+          BIODATA PAGE
         </div>
     </main>
   );
