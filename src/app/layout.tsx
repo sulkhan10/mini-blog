@@ -13,7 +13,7 @@ const gochi_hand = Gochi_Hand({
 
 export const metadata: Metadata = {
   title: 'MINI BLOG',
-  description: 'MINI BLOG ',
+  description: 'MINI BLOG CREATED WITH NEXT.JS',
 };
 
 export default function RootLayout({
