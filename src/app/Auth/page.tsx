@@ -27,7 +27,7 @@ export default function Layout({ children }) {
               <a>
                 <Image
                   src="/logo.svg"
-                  alt="MINI BLOG"
+                  alt="MINI BLOG Logo"
                   width={200}
                   height={50}
                 />
